@@ -8,7 +8,6 @@
     <li>🌟 <strong>My Name:</strong> Nguyễn Huy Hoàng (<strong>RedBalloon</strong>)</li>
     <li>🌈 <strong>Pronouns:</strong> he/him/his</li>
     <li>📧 <strong>Email:</strong> phokyluat@gmail.com</li>
-    <li>📱 <strong>Phone:</strong> (+84) 0901991411</li>
     <li><strong>🌐 Social:</strong>
     <a href="https://www.linkedin.com/in/hoàng-nguyễn-huy-984203291/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
