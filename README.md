@@ -3,7 +3,7 @@
 </h1>
 <img align="right" alt="Nguyễn Huy Hoàng" src="https://github.com/RedBallooon/RedBalloon/blob/70410fc9b264743dd15be5f6c6a09b38f1617432/img/Balloon_GIF.gif" width="350px" height="200"/>
 
-  <p><strong>A little bit about me:</strong></p>
+  <h2><strong>A little bit about me:</strong></h2>
   <ul style="list-style-type: none; padding: 0;">
     <li>🌟 <strong>My Name:</strong> Nguyễn Huy Hoàng (<strong>RedBalloon</strong>)</li>
     <li>🌈 <strong>Pronouns:</strong> he/him/his</li>
