@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+RedBalloon+🎈;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
-<img align="right" alt="Nguyễn Huy Hoàng" src="https://github.com/RedBallooon/RedBalloon/blob/70410fc9b264743dd15be5f6c6a09b38f1617432/img/Balloon_GIF.gif" width="350px" height="200"/>
+---
+
+<img align="right" alt="Nguyễn Huy Hoàng" src="https://github.com/RedBallooon/RedBalloon/blob/70410fc9b264743dd15be5f6c6a09b38f1617432/img/Balloon_GIF.gif" width="450px" height="315"/>
 
 <p><strong>A little bit about me:</strong></p>
 <ul style="list-style-type: none; padding: 0;">
@@ -19,7 +21,7 @@
   </li>
 </ul>
 
-<h2>Languages and Tools:</h2>
+<p><strong>Languages and Tools:</strong></p>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: left;">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
@@ -29,8 +31,16 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
 </div>
+<div>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 48px; height: 48px; border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+</div>
+
 
 
 ---
