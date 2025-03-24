@@ -19,18 +19,19 @@
   </li>
 </ul>
 
-<h3>Languages and Tools:</h3>
-<div>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+<h2>Languages and Tools:</h2>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: left;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">  
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 10px;">
 </div>
+
 
 ---
 
@@ -39,5 +40,3 @@
 <p align="centre"><b><strong>Visitors Count</strong></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RedBallooon}/count.svg" /></p> 
 </div>
-
-
