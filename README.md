@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=60&lines=Hello+there%2C+I'm+RedBalloon+🎈;Welcome+to+my+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+RedBalloon+🎈;Welcome+to+my+profile!" alt="Typing SVG">
 </h1>
 <img align="right" alt="Nguyễn Huy Hoàng" src="https://github.com/RedBallooon/RedBalloon/blob/70410fc9b264743dd15be5f6c6a09b38f1617432/img/Balloon_GIF.gif" width="350px" height="200"/>
 
