@@ -43,8 +43,11 @@
 
 ---
 
+
 <div align="center" style="font-size: 36px;">
 <br>
 <p align="centre"><b><strong>Visitors Count</strong></b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RedBallooon}/count.svg" /></p> 
+  
+![Visitors](https://count.getloli.com/get/@RedBallooon?theme=rule34)
+
 </div>
