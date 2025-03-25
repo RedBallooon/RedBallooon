@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/color/64/000000/jira.png" alt="Jira Icon" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px; width: 64px; height: 64px;">
   <img src="https://img.icons8.com/color/64/000000/figma--v1.png" alt="Figma Icon" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px; width: 64px; height: 64px;">
 </div>
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 48px;">
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png" alt="TensorFlow" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">  
   <img src="https://img.icons8.com/color/64/000000/pandas.png" alt="Pandas" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
@@ -44,10 +45,23 @@
 
 
 ---
+
+
 <div align="center" style="font-size: 36px;">
+
   
-### Visitors Count
+  ### Visitors Count
   
-![Visitors](https://count.getloli.com/get/@RedBallooon?theme=rule34)
+  ![Visitors](https://count.getloli.com/get/@RedBallooon?theme=rule34&size=60)
+
 
 </div>
+
+
+---
+
+ <div align="center">
+  <img alt="Please" src="https://github.com/RedBallooon/RedBalloon/blob/f91c37173ec12f11caffbe52056b9cce5b2255ce/img/please.png" />
+</div>
+
+
