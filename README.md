@@ -42,11 +42,9 @@
 
 
 ---
-
-
 <div align="center" style="font-size: 36px;">
-<br>
-<p align="centre"><b><strong>Visitors Count</strong></b></p>  
+  
+### Visitors Count
   
 ![Visitors](https://count.getloli.com/get/@RedBallooon?theme=rule34)
 
