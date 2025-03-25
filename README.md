@@ -24,20 +24,20 @@
 ### Languages and Tools:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 48px;">
-  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="Power BI" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">  
-  <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/microsoft-sql-server.png" alt="SQL Server" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="Power BI" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">  
+  <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/microsoft-sql-server.png" alt="SQL Server" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
 </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 48px;">
-  <img src="https://img.icons8.com/color/64/000000/tensorflow.png" alt="TensorFlow" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">  
-  <img src="https://img.icons8.com/color/64/000000/pandas.png" alt="Pandas" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 64px; height: 64px; border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
-  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" style="border-radius: 8px; background: #F0F0F0; padding: 20px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/tensorflow.png" alt="TensorFlow" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">  
+  <img src="https://img.icons8.com/color/64/000000/pandas.png" alt="Pandas" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 64px; height: 64px; border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
 </div>
 
 
