@@ -7,6 +7,7 @@
 <img align="right" alt="Nguyễn Huy Hoàng" src="https://github.com/RedBallooon/RedBalloon/blob/70410fc9b264743dd15be5f6c6a09b38f1617432/img/Balloon_GIF.gif" width="250px" height="200"/>
 </br>
 
+
 <p style="font-size: 36px;"><strong>A little bit about me:</strong></p>
 <ul style="list-style-type: none; padding: 0; font-size: 36px; margin: 20px 0;">
   <li style="font-size: 36px;">🌟 <strong>My Name:</strong> Nguyễn Huy Hoàng (<strong>RedBalloon</strong>)</li>
