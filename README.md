@@ -32,6 +32,8 @@
   <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
   <img src="https://img.icons8.com/color/64/000000/microsoft-sql-server.png" alt="SQL Server" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
   <img src="https://img.icons8.com/color/64/000000/tableau-software.png" alt="Tableau" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">
+  <img src="https://img.icons8.com/color/64/000000/jira.png" alt="Jira Icon" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px; width: 64px; height: 64px;">
+  <img src="https://img.icons8.com/color/64/000000/figma--v1.png" alt="Figma Icon" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px; width: 64px; height: 64px;">
 </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; font-size: 48px;">
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png" alt="TensorFlow" style="border-radius: 8px; background: #F0F0F0; padding: 40px; margin: 20px;">  
