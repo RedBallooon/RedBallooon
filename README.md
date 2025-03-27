@@ -48,7 +48,6 @@
 
 
 <div align="center" style="font-size: 36px;">
-
   
   ### Visitors Count
   
