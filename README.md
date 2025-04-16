@@ -12,7 +12,8 @@
 ### A little bit about me
 🌟 **My Name:** Nguyễn Huy Hoàng (**RedBalloon**)  
 📧 **Email:** phokyluat@gmail.com  
-🌐 **Social:** [LinkedIn](https://linkedin.com/in/hoàng-nguyễn-huy-984203291/) | [Facebook](https://fb.com/redballoonnnn)  
+🌐 **Social:** [LinkedIn](https://linkedin.com/in/hoàng-nguyễn-huy-984203291/)
+
 📱 **Phone:** (+84) 0901991411
 
 
