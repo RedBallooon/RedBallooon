@@ -1,6 +1,5 @@
-<p align="center" style="font-size: 56px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=56&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=120&lines=Hi+there%2C+I'm+RedBalloon+🎈;I'm+a+Fresher+Data+Analyst;Welcome+to+my+profile!+😉" alt="Typing SVG">
-</p>
+<img src="https://readme-typing-svg.demolab.com?lines=Hello+my+name+is+RedBalloon&center=true&width=600&height=100&font=Fira+Code&size=35&pause=1000" alt="Typing SVG" />
+
 
 ---
 
@@ -60,8 +59,10 @@
 
 ---
 
- <div align="center">
+<!--
+<div align="center">
   <img alt="Please" src="https://github.com/RedBallooon/RedBalloon/blob/f91c37173ec12f11caffbe52056b9cce5b2255ce/img/please.png" />
 </div>
+-->
 
 
